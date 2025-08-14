@@ -1,0 +1,20 @@
+{
+    "name": "deniztoprak/bootstrap-elements",
+    "description": "Laravel için bootstrap tabanlı UI bileşenleri",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Den\\BootstrapElements\\": "src/BootstrapElements/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Deniz Toprak",
+            "email": "mail@ornek.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
