@@ -1,6 +1,6 @@
 <?php
 
-namespace Den;
+namespace Den\BootstrapElements;
 
 abstract class AbstractWidget
 {

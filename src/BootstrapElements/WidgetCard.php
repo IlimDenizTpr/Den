@@ -1,7 +1,7 @@
 <?php
 namespace Den\BootstrapElements;
 
-use Den\AbstractWidget;
+use Den\BootstrapElements\AbstractWidget;
 
 class WidgetCard extends AbstractWidget
 {
