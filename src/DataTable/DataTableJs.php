@@ -1,7 +1,7 @@
 <?php
 namespace Den\DataTable;
 
-use Den\AbstractWidget;
+use Den\BootstrapElements\AbstractWidget;
 
 class DataTableJs extends AbstractWidget
 {
